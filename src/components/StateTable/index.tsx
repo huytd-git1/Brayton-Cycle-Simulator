@@ -139,3 +139,4 @@ export const StateTable: React.FC = () => {
     </div>
   );
 };
+

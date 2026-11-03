@@ -62,3 +62,4 @@ export const ThermodynamicCharts: React.FC = () => {
     </div>
   );
 };
+

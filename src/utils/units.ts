@@ -56,3 +56,4 @@ export function formatNum(val: number, decimals: number = 2): string {
   if (isNaN(val) || !isFinite(val)) return '—';
   return val.toFixed(decimals);
 }
+

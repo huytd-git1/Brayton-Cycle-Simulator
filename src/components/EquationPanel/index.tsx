@@ -329,3 +329,4 @@ export const EquationPanel: React.FC = () => {
     </div>
   );
 };
+

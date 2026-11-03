@@ -101,3 +101,4 @@ export interface ValidationResult {
   warnings: string[];
   errors: string[];
 }
+

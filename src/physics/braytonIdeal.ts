@@ -168,3 +168,4 @@ export function solveIdealBrayton(inputs: CycleInputs): IdealBraytonResult {
     R,
   };
 }
+

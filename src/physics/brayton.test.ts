@@ -120,3 +120,4 @@ describe('Brayton Thermodynamic Cycle Tests', () => {
     expect(s3.P).toBeCloseTo(s2.P * (1 - defaultInputs.delta_p), 2);
   });
 });
+
